@@ -17,9 +17,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LucasHBG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LucasHBG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LucasHBG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gbxsaints | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gabrielsants | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gabrielsants | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -39,6 +39,6 @@
 [nestjs]:       https://nestjs.com
 [flutter]:      https://flutter.dev
 [twitter]:      https://twitter.com/gbxsaints
-[linkedin]:     https://www.linkedin.com/in/dev-gabriel-santos/
+[linkedin]:     https://www.linkedin.com/in/gabrielsants/
 [instagram]:    https://www.instagram.com/gabrielsants.dev/
 [GitHub]:       https://github.com/gabrielsants
