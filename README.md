@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gbxsaints" target="blank"><img src="https://img.shields.io/twitter/follow/gbxsaints?logo=twitter&style=for-the-badge" alt="gbxsaints" /></a> </p>
 
-- 🔭 I’m currently working on a open-source web system called [SisFarm](https://github.com/gabrielsants/sisfarm)
+- 🔭 I’m currently working on a open-source web system called [SisFarm](https://github.com/gabrielsants/sisfarm) and a interface clone of Spotify using their API.
 
 - 🌱 I’m currently learning [NestJs][nestjs]
 
