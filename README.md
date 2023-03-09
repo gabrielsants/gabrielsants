@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/dev-gabriel-santos"><i>Gabriel Santos</i></a> 😃️</h1>
-  <p align="center">I am a Software Engineer at Philips and here I share some projects</p>
+  <p align="center">Master's student in Applied Computing in the Software Engineering research line at the Federal Technological University of Paraná (UTFPR). Graduated in Computer Science from the Federal University of Jataí (UFJ). I currently work as Software Engenieer at Philips. I have experience in Computer Science, with emphasis on software development, working mainly with the following technologies: Angular, Java, Javascript, PLSQL, Typescript, Shell and Python.</p>
   <br>
 </div>
 
